@@ -1,0 +1,35 @@
+
+.newpaper-background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.newpaper-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.newpaper-card-container-paragraph {
+    font-size: 12px;
+    color: #7b8794;
+
+}
+
+.newpaper-card-container-heading {
+    font-size: 17px;
+    color: #323f4b;
+}
+
+.newpaper-card-container-button {
+    height: 36px;
+    width: 138px;
+    border-radius: 8px;
+    border-width: 0;
+    font-size: 14px;
+    background-color: #323f4b;
+    color: #ffffff;
+}
